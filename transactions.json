@@ -90,21 +90,6 @@
         "isEdited": false
     },
     {
-        "id": 7,
-        "date": "19/07/2024",
-        "institution": "Amazon India",
-        "account": "Credit Card",
-        "merchant": "Amazon",
-        "amount": 300.0,
-        "type": "debit",
-        "categoryId": 101,
-        "category": "Groceries",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": true,
-        "isEdited": false
-    },
-    {
         "id": 8,
         "date": "23/07/2024",
         "institution": "ICICI Bank",
@@ -174,21 +159,6 @@
         "type": "debit",
         "categoryId": 105,
         "category": "Electronics",
-        "isPending": false,
-        "isTransfer": false,
-        "isExpense": true,
-        "isEdited": false
-    },
-    {
-        "id": 13,
-        "date": "16/08/2024",
-        "institution": "Flipkart",
-        "account": "Credit Card",
-        "merchant": "Flipkart",
-        "amount": 500.0,
-        "type": "debit",
-        "categoryId": 102,
-        "category": "Food & Drinks",
         "isPending": false,
         "isTransfer": false,
         "isExpense": true,
